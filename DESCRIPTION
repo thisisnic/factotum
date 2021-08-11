@@ -13,6 +13,7 @@ Imports:
     htmltools,
     processx,
     shiny (>= 1.6.0),
+    shinydashboard,
     thinkr
 Encoding: UTF-8
 LazyData: true
