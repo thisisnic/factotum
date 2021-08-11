@@ -1,0 +1,13 @@
+name: factotum
+title: factotum
+username:
+account: thisisnic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4479981
+bundleId: 4911035
+url: https://thisisnic.shinyapps.io/factotum/
+when: 1628677286.7555
+lastSyncTime: 1628677286.75552
+asMultiple: FALSE
+asStatic: FALSE
